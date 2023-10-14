@@ -1,0 +1,33 @@
+div{
+   /* border-style: solid;
+    border-color: red;
+    border-width: 20px;*/
+ border-radius: 20px;
+height: 500px;
+width: 500px;
+border: solid red  20px;
+background-color: blue;
+display: inline-block;
+color: white;
+font-size: large;
+border-top-style: dashed;
+border-bottom-style: dashed;
+margin-top: 50px;
+padding-top: 50px;
+
+margin-bottom: 40px;
+padding-bottom: 40px;
+
+margin-left: 10px;
+padding-left: 10px;
+
+margin-right: 20px;
+padding-right: 20px;
+
+border-right-color: green;
+border-left-color: green;
+outline-style: dashed;
+outline-width: 20px;
+outline-color: goldenrod;
+
+}
